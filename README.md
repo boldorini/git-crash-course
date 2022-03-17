@@ -12,6 +12,8 @@
 
 [5. Criando snippets de código](#criando-snippets-de-código)
 
+[6. Listas não ordenadas](#listas-não-ordenadas)
+
 ## Headers
 
 Sempre que escrevermos headers, devemos deixar linhas em branco entre eles. Os headers são representados pelo símbolo #.
@@ -91,4 +93,12 @@ Para criar snippets de código (partes de código) basta utilizar o símbolo de 
   "age": 25
 }
 ```
+[Voltar ao índice](#índice)
+
+## Listas não-ordenadas
+Para criar listas não-ordenadas, utiliza-se o símbolo - no começo da linha.
+- linha 1
+- linha 2
+- linha 3
+
 [Voltar ao índice](#índice)
