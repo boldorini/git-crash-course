@@ -1,16 +1,16 @@
 # Markdown Tutorial
 
-## Indice
+## Índice
 
-1. Headers
+[1. Headers](#headers)
 
-2. Itálicos, Negritos e Negritos Itálicos
+[2. Itálicos, Negritos e Negritos Itálicos](#itálicos-negritos-e-negritos-itálicos)
 
-3. Parágrafos com destaque
+[3. Parágrafos com destaque](#parágrafo-com-destaque)
 
-4. Criação de hyperlinks
+[4. Criação de hyperlinks](#criação-de-hyperlinks)
 
-5. Criando snippets de código
+[5. Criando snippets de código](#criando-snippets-de-código)
 
 ## Headers
 
@@ -30,6 +30,8 @@ Os headers têm 6 níveis que são representados pela quantidade de símbolos es
 
 ###### h6
 
+[Voltar ao índice](#índice)
+
 ## Itálicos, Negritos e Negritos Itálicos
 
 Os negritos e itálicos são representados pelo símbolo * ou _.
@@ -39,6 +41,8 @@ Uma palavra cercada por 1 asterisco em cada lado terá seu formato modificado pa
 Uma palavra cercada por 2 asteriscos em cada lado terá seu formato modificado para **negrito**.
 
 Uma palavra cercada por 3 asteriscos em cada lado terá seu formato modificado para ***negrito/itálico***.
+
+[Voltar ao índice](#índice)
 
 ## Parágrafo com destaque
 
@@ -50,10 +54,12 @@ Para escrever um parágrafo com destaque, utilizamos o símbolo >.
 
 Os paragráfos acima estão destacados do restante do texto escrito.
 
+[Voltar ao índice](#índice)
+
 ## Criação de hyperlinks
 
 A criação de hyperlinks é feita através dos símbolos [](). Onde o conteúdo dos colchetes é o texto que será exibido e o conteúdo do parênteses é o link a ser redirecionado.
-Ex: [Google](www.google.com)
+Ex: [Google](http://www.google.com)
 
 [Voltar ao índice](#índice)
 
@@ -85,3 +91,4 @@ Para criar snippets de código (partes de código) basta utilizar o símbolo de 
   "age": 25
 }
 ```
+[Voltar ao índice](#índice)
