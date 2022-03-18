@@ -12,11 +12,11 @@
 
 [5. Criando auto-referências](#criação-de-auto-referências)
 
-[5. Criando snippets de código](#criando-snippets-de-código)
+[6. Criando snippets de código](#criando-snippets-de-código)
 
-[6. Listas não ordenadas](#listas-não-ordenadas)
+[7. Listas não ordenadas](#listas-não-ordenadas)
 
-[7. Listas ordenadas](#listas-ordenadas)
+[8. Listas ordenadas](#listas-ordenadas)
 
 ## Headers
 
