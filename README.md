@@ -10,6 +10,8 @@
 
 [4. Criação de hyperlinks](#criação-de-hyperlinks)
 
+[5. Criando auto-referências](#criação-de-auto-referências)
+
 [5. Criando snippets de código](#criando-snippets-de-código)
 
 [6. Listas não ordenadas](#listas-não-ordenadas)
@@ -64,6 +66,13 @@ Os paragráfos acima estão destacados do restante do texto escrito.
 
 A criação de hyperlinks é feita através dos símbolos [](). Onde o conteúdo dos colchetes é o texto que será exibido e o conteúdo do parênteses é o link a ser redirecionado.
 Ex: [Google](http://www.google.com)
+
+[Voltar ao índice](#índice)
+
+## Criação de auto-referências
+
+Para criar uma referência a capítulos do próprio Markdown, utiliza-se os símbolos de hyperlink [](). Porém, diferente de hyperlinks externos onde dentro do parênteses, acrescenta-se a url desejada, para links internos colocamos o título do capítulo desejado --- se houver espaço no nome do capítulo, substitua-o por hífen --- com o símbolo # o precedendo.
+Ex: [Markdown Tutorial](#markdown-tutorial)
 
 [Voltar ao índice](#índice)
 
