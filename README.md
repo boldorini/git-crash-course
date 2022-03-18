@@ -20,6 +20,8 @@
 
 [9. Sub-listas](#sub-listas)
 
+[10. Figuras](#figuras)
+
 ## Headers
 
 Sempre que escrevermos headers, devemos deixar linhas em branco entre eles. Os headers são representados pelo símbolo #.
@@ -134,5 +136,15 @@ Para criação de sublistas utilizamos ambas a anotações explicadas acima junt
     1. sub-linha2.1
     2. sublinha2.2
 3. linha 3
+
+[Voltar ao índice](#índice)
+
+## Figuras
+
+Para acrescentar imagens no texto utiliza-se o símbolo ![](). Onde a exclamação indica uma figura, o conteúdo do colchetes indica o texto alternativo caso a imagem não seja carregada e entre parênteses temos o link da imagem.
+
+![Logo do GIT](https://cdn.icon-icons.com/icons2/1381/PNG/512/git_93585.png)
+
+![Logo do GIT Local](./img/git-icon.png)
 
 [Voltar ao índice](#índice)
